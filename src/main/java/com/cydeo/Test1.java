@@ -5,6 +5,8 @@ public class Test1 {
         System.out.println("Hello G1");
 
 
+        System.out.println("New line from Madiyar");
+
 
         System.out.println(" Jawid pull request");
 
@@ -13,5 +15,8 @@ public class Test1 {
         System.out.println("khashayar add this");
 
 
+
     }
+
+
 }
